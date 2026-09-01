@@ -1,15 +1,15 @@
-Hi! I'm minniesBaa, a mouse that loves to code!
+## im just a mouse and im doin mouse stuff
 
-## Programming languages
+such as coding, gaming, electronics, and whatever else mice do
 
- - Python
- - HTML + JavaScript + CSS
+### what i'm working on
 
-## Projects
+- oregon trail modding software
 
- - [Mouselink](https://pypi.org/project/mouselink/) - Connect Scratch to more hardware and software ([GitHub link](https://github.com/minniesBaa/mouselink))
- - [Spoke](https://spoke.themice.org) - Wordle but with 4 words in 4 different directions ([GitHub link](https://github.com/minniesBaa/spoke))
- - [KP's Message Board](https://kp.themice.org) - A simplistic, open-source message board app ([GitHub link](https://github.com/minniesBaa/kpmsg))
- - [Mousechuk](https://github.com/minniesBaa/mousechuk) - Turn a Wii Nunchuk into a mouse!
- - [Network Viewer](https://github.com/minniesBaa/network-viewer) - Selfhosted web app to monitior devices on your network
- - [Device watcher](https://github.com/minniesBaa/device-watcher) - Uses zeroconf to identify and track a device.
+### stuff i've made
+
+- [minniesBaa/spoke](https://github.com/minniesBaa/spoke) 4 word wordle, each word in a different direction
+- [minniesBaa/kpmsg](https://github.com/minniesBaa/kpmsg) IP address based chatting application
+- [minniesBaa/oregontrail-player](https://github.com/minniesBaa/oregontrail-player) DOSBox-X fork that automatically plays the Oregon Trail
+- [minniesBaa/device-watcher](https://github.com/minniesBaa/device-watcher) uses zeroconf to track if a device is on or off on the network
+- 
